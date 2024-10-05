@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/coupon_background"
+    android:layout_margin="8dp"
+    android:elevation="4dp">
+
+    <TextView
+        android:id="@+id/couponCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Coupon Code"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="@color/priramy" />
+
+    <TextView
+        android:id="@+id/couponDiscount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Discount"
+        android:textSize="16sp"
+        android:textColor="@color/secondary_text"
+        android:layout_marginTop="4dp" />
+
+    <TextView
+        android:id="@+id/couponStartDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start Date"
+        android:textSize="14sp"
+        android:textColor="@color/secondary_text"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:id="@+id/couponEndDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="End Date"
+        android:textSize="14sp"
+        android:textColor="@color/secondary_text"
+        android:layout_marginTop="4dp" />
+
+</LinearLayout>

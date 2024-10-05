@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Shoes Store</string>
+
+
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="add_image">Add Image</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm PassWord</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="select_user">Select User</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="online">Online</string>
+    <string name="change_password">Change Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+
+    <string name="otp_verification">OTP Verification</string>
+    <string name="content">We will send you an OTP on this email</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="your_mail">abc@gmail.com</string>
+    <string name="mail_here">Email: </string>
+    <string name="get_otp">GET OTP</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="enter_the_otp_sent_to">Enter the OTP sent to</string>
+    <string name="didn_t_receive_the_otp">Didn\'t receive the OTP?</string>
+    <string name="verify">Verify</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="toggle_password_visibility">toggle pass</string>
+    <string name="otp_input_4">input</string>
+    <string name="list_category">Category</string>
+    <string name="list_product">Product</string>
+    <string name="create_category">Create Category</string>
+    <string name="select_image">Select Image</string>
+    <string name="category_image">Category Image</string>
+    <string name="category_name">Name</string>
+    <string name="submit">Submit</string>
+    <string name="create_product">Create Product</string>
+
+
+    <string name="back">Back</string>
+    <string name="my_cart">My Cart</string>
+    <string name="enter_your_coupon">Enter Your Coupon</string>
+    <string name="apply">Apply</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="delivery">Delivery</string>
+    <string name="total_tax">Total Tax</string>
+    <string name="total">Total</string>
+    <string name="check_out">Check Out</string>
+    <string name="address">Address</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="History">Orders</string>
+</resources>
